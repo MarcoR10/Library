@@ -1,3 +1,6 @@
+# Marco Alvarez
+# Libreria Vectores Complejos 2022 
+
 import math
 import NComplex as nc
 
@@ -212,30 +215,4 @@ def iden(m,n):
                 re[i][j] = ((2/2),0)
     return re
 # -----------------------------------------------------------------------------------------------------------------------
-if __name__ == '__main__':
 
-    # a = [(6.0,3.3),(4.9,5.8)]
-    # a = [(2, 1), (3, 2), (1, 1)]
-    #a = [(2, 1), (3, 2), (1, 1)]
-    #b = [(5, 6), (4, 8), (16, 1)]
-    #b = [(2,3),(4,3),(6,8)]
-    #a = [[(2, 3), (0, 2), (1, 8)], [(3, 5), (0, 5), (0, 5)], [(5, 1), (1, 9), (1, 8)]]
-    #b = [[(5, 7), (0, 8), (1, 2)], [(1, -5), (2, -5), (-4, -5)], [(1, 4), (1, -9), (0, 2)]]
-    # print(svecto(a,b))
-    # print(invecto(a))
-    # print(multiexv((3, 2), [(6, 3), (0, 0), (5, 1), (4, 0)]))
-    # print(sumatriz(a, b))
-    # print(invematriz(a))
-    # print(multriz(a, b))
-    # print(tranmatriz(a))
-    # print(conjumatriz(a))
-    # print(dagamatriz(a))
-    #print(proma(a, b))
-    #print(proint(a,b))
-    # print(proint([(1, 0), (0, 1), (1, -3)], [(2, 1), (0, 1), (2, 0)]))
-    # print(norma(a))
-    # print(dista([(2, 1)], [(-3, 2)]))
-    #print(hermi([[(0, 2), (0, 0)], [(0, 0), (0, -2)]]))
-    #print(uni([[(0, 2), (0, 0)], [(0, 0), (0, -2)]]))
-    # a = (2, 2)
-    # b = (2,2)
